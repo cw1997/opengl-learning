@@ -10,3 +10,4 @@ compile_commands.json
 CTestTestfile.cmake
 _deps
 opengl-learning/.vs
+opengl-learning/Debug
